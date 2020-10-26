@@ -12,6 +12,7 @@
             - DB_USERNAME=root
             - DB_PASSWORD=root 
   </li>
+  <li>Correr el script ubicado en database/scripts/create_schema.sql</li>
   <li>Correr el comando: <strong>php artisan migrate</strong></li>
   <li>Correr el comando: <strong>php artisan key:generate</strong></li>
   <li>Otorgarle permisos de lectura y escritura a la carpeta storage/</li>
