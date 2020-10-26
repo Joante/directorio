@@ -16,4 +16,5 @@
   <li>Correr el comando: <strong>php artisan migrate</strong></li>
   <li>Correr el comando: <strong>php artisan key:generate</strong></li>
   <li>Otorgarle permisos de lectura y escritura a la carpeta storage/</li>
+  <li>Correr el comando: <strong>php artisan serve</strong></li>
 </ol>
